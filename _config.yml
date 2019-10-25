@@ -26,20 +26,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author: Michelle Chung
 
 #socials
-#twitter_username: chasingtheta
-#github_username: hellochmi
-
-social:
-  name: Michelle Chung
-  links:
-    - https://github.com/hellochmi
-    - https://linkedin.com/in/ouyi-cs
-    - https://twitter.com/chasingtheta
-
-social_media:
-  - { media_name: GitHub, fa_icon: fa-github-square, profile_link: "https://github.com/hellochmi" }
-  - { media_name: LinkedIn, fa_icon: fa-linkedin-square, profile_link: "https://www.linkedin.com/in/michelle-chung-2586846b/" }
-  - { media_name: Twitter, fa_icon: twitter-square, profile_link: "https://twitter.com/chasingtheta" }
+twitter_username: chasingtheta
+github_username: hellochmi
+linkedin_username: michelle-chung-2586846b
   
 # Build settings
 theme: minima
