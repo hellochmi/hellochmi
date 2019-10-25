@@ -21,7 +21,7 @@
 title: Michelle Chung
 email: mchung.92@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-This page serves as a public record of personal thoughts related to tech, learning, and wellness.
+A public record of personal thoughts related to tech, learning, and wellness.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chasingtheta
