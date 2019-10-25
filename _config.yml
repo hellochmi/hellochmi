@@ -18,14 +18,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Michelle Chung
-email: mchung.92@gmail.com
+title: Chasing Theta
+#email: mchung.92@gmail.com
 description: Perpetual student, recovering hippie. A public record of personal thoughts related to tech, learning, and wellness. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+#socials
 twitter_username: chasingtheta
 github_username: hellochmi
 
+social:
+  name: Michelle Chung
+  links:
+    - https://github.com/hellochmi
+    - https://linkedin.com/in/ouyi-cs
+    - https://twitter.com/chasingtheta
+
+#social_media:
+#  - { media_name: GitHub, fa_icon: fa-github-square, profile_link: "https://github.com/ouyi" }
+#  - { media_name: LinkedIn, fa_icon: fa-linkedin-square, profile_link: "https://www.linkedin.com/in/michelle-chung-2586846b/" }
+#  - { media_name: Twitter, fa_icon: twitter-square, profile_link: "https://www.xing.com/profile/Yi_Ou3" }
+  
 # Build settings
 theme: minima
 
