@@ -32,10 +32,12 @@ linkedin_username: hellochmi
 # Build settings
 theme: minima
 show_excerpts: true
+paginate: 5
   
 # Plug-ins
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
