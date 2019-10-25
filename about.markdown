@@ -4,4 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This blog serves no central theme. It is instead a public record of my personal thoughts on a variety of subjects and ideas ranging from the self-indulgent (opinion pieces, book excerpts, personal experiences) to the hopefully-helpful (tutorials, advice).
+Thanks for visiting my page.
+
+I'm Michelle Chung. I recently graduated with my B.A. in Applied Mathematics and am currently enrolled at Georgia Tech for an M.Sc. in Computer Science.
+
+In my free time, I enjoy reading, writing (badly), exercising, tidying, and spending time with friends.
+
+I am passionate about learning, truth, and encouraging others towards curiosity through compassion.
