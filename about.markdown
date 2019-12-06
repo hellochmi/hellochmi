@@ -6,7 +6,7 @@ permalink: /about/
 
 Thanks for visiting my page.
 
-I'm Michelle Chung. I recently graduated with my B.A. in Applied Mathematics and am currently enrolled at Georgia Tech for an M.Sc. in Computer Science.
+I'm Michelle. I am currently enrolled at Georgia Tech for an M.Sc. in Computer Science and graduated with a B.A. in Applied Mathematics at CUNY Queens College.
 
 In my free time, I enjoy reading, writing (badly), exercising, tidying, and spending time with friends.
 
