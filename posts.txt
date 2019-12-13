@@ -1,0 +1,3 @@
+
+- what and why? python venvs
+- tips for technical interviewing
